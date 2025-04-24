@@ -2,11 +2,6 @@
 
 This is a Spring Boot-based backend project that simulates a mobile provider's billing system. It includes endpoints for user registration, usage tracking, billing calculation, and payment processing.
 
-## 🔗 Source Code
-
-GitHub Repository: [https://github.com/yourusername/mobile-billing-api](https://github.com/yourusername/mobile-billing-api)
-
----
 
 ## 🛠️ Design Overview
 
